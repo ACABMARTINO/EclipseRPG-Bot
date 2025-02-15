@@ -1,1 +1,2 @@
 { "name": "eclipserpg-bot", "version": "1.0.0", "description": "A Discord bot for EclipseRPG", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": { "discord.js": "^14.7.1", "dotenv": "^16.0.0" } }
+npm install
